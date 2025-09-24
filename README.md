@@ -1,14 +1,17 @@
 # Data Portfolio — Arthur Porto
 
-Este é meu portfólio de Data Science em construção.  
-Aqui você encontra projetos, anotações e notebooks das formações que estou cursando.
+Portfólio de Data Science em construção, reunindo cursos, estudos e projetos práticos.
 
 ## Estrutura
 
-- **alura-python-basics/** → Scripts e notebooks dos cursos da Alura.
-- **google-analytics-notes/** → Resumos, PDFs e exercícios do Google Data Analytics.
-- **fiap-dengue-case/** → Notebooks e relatórios do case de Dengue (FIAP).
-- **docs/** → Anotações gerais, mapas mentais e resumos de estudo.
+- **alura/python-basics/** → Scripts e notebooks dos cursos de Python para Data Science (Alura).
+- **google-data-analytics/** → Resumos, PDFs e exercícios do Google Data Analytics (Coursera).
+- **fiap/dengue-case/** → Projeto do case de Dengue (FIAP Pós Tech).
+- **docs/** (em breve) → Mapas mentais, resumos e anotações gerais.
 
-## Como usar
-Abra cada pasta e veja o README específico com mais detalhes.
+## Objetivo
+Organizar meu aprendizado e demonstrar evolução técnica de forma clara para recrutadores.
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/arthursporto)  
+- Email: arthursporto@gmail.com
