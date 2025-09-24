@@ -13,5 +13,5 @@ Portfólio de Data Science em construção, reunindo cursos, estudos e projetos 
 Organizar meu aprendizado e demonstrar evolução técnica de forma clara para recrutadores.
 
 ## Contato
-- [LinkedIn](https://www.linkedin.com/arthursporto)  
+- [LinkedIn](https://www.linkedin.com/in/arthursporto/)  
 - Email: arthursporto@gmail.com
