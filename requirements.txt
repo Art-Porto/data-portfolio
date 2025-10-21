@@ -1,0 +1,55 @@
+# ======================================
+# Core - Data Science / Machine Learning
+# ======================================
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+
+# ======================================
+# Deep Learning / AI
+# ======================================
+tensorflow
+torch
+torchvision
+torchaudio
+transformers
+
+# ======================================
+# Data Handling / Feature Engineering
+# ======================================
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+
+# ======================================
+# Data Visualization / Dashboards
+# ======================================
+plotly
+altair
+
+# ======================================
+# Utilities / Notebooks / Misc
+# ======================================
+jupyterlab
+notebook
+ipywidgets
+tqdm
+joblib
+requests
+
+# ======================================
+# Natural Language Processing
+# ======================================
+spacy
+nltk
+gensim
+
+# ======================================
+# Data Connectors / IO
+# ======================================
+openpyxl
+pyarrow
