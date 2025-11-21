@@ -24,6 +24,10 @@ xgboost
 lightgbm
 catboost
 imbalanced-learn
+html5lib 
+beautifulsoup4
+lxml
+sqlalchemy
 
 # ======================================
 # Data Visualization / Dashboards
@@ -40,6 +44,7 @@ ipywidgets
 tqdm
 joblib
 requests
+chardet
 
 # ======================================
 # Natural Language Processing
