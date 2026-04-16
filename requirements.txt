@@ -58,3 +58,6 @@ gensim
 # ======================================
 openpyxl
 pyarrow
+gspread
+gspread-dataframe
+google-auth
