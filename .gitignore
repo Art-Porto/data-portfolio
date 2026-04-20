@@ -1,14 +1,48 @@
-# Ignore the .github folder
-.github/
+# ===========================================
+# GitHub Repository - Data Portfolio
+# ===========================================
 
-# Ignore Python bytecode files
+# ===========================================
+# Python
+# ===========================================
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
 
-# Ignore Jupyter Notebook checkpoints
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter
 .ipynb_checkpoints/
+.jupyter-config/
+*.ipynb_checkpoints
 
-# Ignore credentials anywhere
+# ===========================================
+# IDEs & Development Tools
+# ===========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude AI settings
+.claude/
+
+# ===========================================
+# Credentials & Secrets (NEVER commit)
+# ===========================================
 credenciais.json
 *credentials*.json
 .env
+.env.*
