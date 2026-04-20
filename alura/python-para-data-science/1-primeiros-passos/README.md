@@ -1,13 +1,19 @@
-# Alura — Python Basics
+# 1 - Primeiros passos
 
-Notebooks e scripts desenvolvidos durante os cursos de **Python para Data Science** da Alura.
+Modulo inicial da trilha de Python para Data Science.
 
-## Estrutura
-- `notebooks/` → Exercícios e práticas guiadas.
-- `scripts/` → Funções e códigos úteis reutilizáveis.
+## Arquivos
 
-## Conteúdo (em progresso)
-- ✅ Variáveis, Tipos de Dados e Operadores
-- ✅ Estruturas de Controle
-- ⏳ Funções
-- ⏳ Pandas e NumPy básicos
+| Arquivo | Descricao |
+| --- | --- |
+| `Aula-Python_Data_Science-checkpoint.ipynb` | Notebook com conceitos de aula e praticas iniciais. |
+| `Hora da pratica-checkpoint.ipynb` | Exercicios de fixacao. |
+| `Projeto_Final-Python_Data_Science-checkpoint.ipynb` | Projeto final do modulo. |
+
+## Temas estudados
+
+- Variaveis e tipos de dados.
+- Operadores e expressoes.
+- Estruturas condicionais.
+- Estruturas de repeticao.
+- Primeiros passos no Jupyter Notebook.

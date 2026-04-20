@@ -1,18 +1,24 @@
-# Google Data Analytics — Coursera
+# Google Data Analytics
 
-Resumos, PDFs e exercícios da especialização de **Google Data Analytics**.
+Pasta para organizar estudos, anotacoes e materiais relacionados ao certificado Google Data Analytics.
 
-## Estrutura
-- `modulos/` → Notas por módulo.
-- `pdfs/` → Materiais exportados e resumos visuais.
-- `exercicios/` → Respostas e resoluções práticas.
+## Situacao atual
 
-## Progresso
-- ✅ Módulo 1 — Foundations
-- ✅ Módulo 2 — Ask Questions
-- ⏳ Módulo 3 — Data Preparation
-- ⏳ Módulo 4 — Data Cleaning
-- ⏳ Módulo 5 — Análise
-- ⏳ Módulo 6 — Visualização
-- ⏳ Módulo 7 — R Programming
-- ⏳ Módulo 8 — Case Study
+Esta area esta reservada para consolidar resumos, exercicios e materiais de apoio da trilha. No momento, a pasta funciona como ponto de organizacao para os proximos arquivos do certificado.
+
+## Estrutura prevista
+
+| Pasta sugerida | Conteudo esperado |
+| --- | --- |
+| `modulos/` | Notas por modulo do certificado. |
+| `exercicios/` | Respostas, praticas e pequenos estudos. |
+| `materiais/` | PDFs, mapas mentais, resumos e referencias. |
+| `case-study/` | Projeto final ou estudos de caso. |
+
+## Temas da trilha
+
+- Fundamentos de analise de dados.
+- Formulacao de perguntas de negocio.
+- Preparacao e limpeza de dados.
+- Analise, visualizacao e comunicacao de insights.
+- Estudos de caso para portfolio.
