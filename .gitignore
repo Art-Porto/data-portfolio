@@ -40,6 +40,11 @@ env/
 .claude/
 
 # ===========================================
+# Personal and Enterprise INFO
+# ===========================================
+ScrubsByAna/
+
+# ===========================================
 # Credentials & Secrets (NEVER commit)
 # ===========================================
 credenciais.json
