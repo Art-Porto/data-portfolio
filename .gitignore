@@ -43,11 +43,29 @@ env/
 # Personal and Enterprise INFO
 # ===========================================
 ScrubsByAna/
+analises/cartao-credito/
 
 # ===========================================
 # Credentials & Secrets (NEVER commit)
 # ===========================================
 credenciais.json
+**/credenciais*
+credentials.json
+*credentials*
 *credentials*.json
 .env
 .env.*
+*.env
+*secret*
+*secrets*
+*token*
+*api[_-]key*
+*apikey*
+*.pem
+*.key
+*.pfx
+*.p12
+service-account*.json
+client_secret*.json
+config.local.*
+auth.json
