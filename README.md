@@ -13,7 +13,6 @@ Organizar minha evolucao tecnica em Python, analise de dados, visualizacao, esta
 | `alura/` | Estudos da trilha de Python para Data Science, com notebooks, desafios e bases de apoio. |
 | `fiap/` | Projetos e estudos da Pos Tech FIAP, incluindo analises exploratorias e tech challenge. |
 | `google-data-analytics/` | Organizacao dos estudos do certificado Google Data Analytics. |
-| `ScrubsByAna/` | Projeto aplicado de analise comercial e financeira para a marca Scrubs By Ana. |
 | `docs/` | Documentos auxiliares, prompts e materiais de apoio ao aprendizado. |
 | `requirements.txt` | Dependencias Python usadas no portfolio. |
 | `server.py` | API Flask simples para expor informacoes basicas do portfolio. |
@@ -22,8 +21,8 @@ Organizar minha evolucao tecnica em Python, analise de dados, visualizacao, esta
 
 - Analises em Jupyter Notebook com foco em Python, NumPy, Pandas e visualizacao.
 - Bases de dados em CSV, XLSX, JSON, XML e HTML para pratica de leitura e tratamento.
-- Projeto `ScrubsByAna` com notebooks, graficos, relatorios executivos e matrizes de acao.
-- Organizacao por fonte de estudo e por projeto para facilitar revisao e manutencao.
+- Trilha estruturada por fonte de estudo (Alura, FIAP, Google) para facilitar revisao e manutencao.
+- Trabalho com pipelines de dados, exploracao estatistica e construcao de relatorios executivos.
 
 ## Como usar localmente
 
@@ -38,7 +37,8 @@ cd data-portfolio
 
 ```bash
 python -m venv .venv
-.venv\Scripts\activate
+.venv\Scripts\activate          # Windows
+# source .venv/bin/activate     # macOS / Linux
 ```
 
 3. Instale as dependencias:
@@ -64,19 +64,20 @@ python server.py
 - Repositorio remoto: `https://github.com/Art-Porto/data-portfolio.git`
 - Branch principal: `main`
 - Remote padrao: `origin`
-- Ultimo ponto de sincronizacao antes desta atualizacao de READMEs: `317fbf8 Integra historico remoto ao main local`
 
 Comandos uteis:
 
 ```bash
 git status
-git pull --tags origin main
-git add README.md alura docs fiap google-data-analytics ScrubsByAna
-git commit -m "Atualiza documentacao do portfolio"
+git pull origin main
+git add <arquivos>
+git commit -m "mensagem"
 git push origin main
 ```
 
-Observacao: o historico local e o remoto ja foram integrados em um merge commit, entao o fluxo normal de `pull`, `commit` e `push` deve seguir sem o erro de historicos nao relacionados.
+## Privacidade e dados sensiveis
+
+Projetos com dados pessoais ou de terceiros (clientes, fornecedores, dados financeiros) ficam em repositorio privado separado, fora deste portfolio publico. O `.gitignore` protege credenciais (`credenciais.json`, `.env`, tokens, chaves) por padrao.
 
 ## Contato
 
